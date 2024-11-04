@@ -1,1 +1,2 @@
-# This is the project about Blinkit outlet shop 
+# Excel-Blinkit-outlet supermarket project:
+
