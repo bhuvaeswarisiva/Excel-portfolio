@@ -1,5 +1,5 @@
-# ABOUT: 
-# The dataset I have utilized in this project from Kaggle… Used Data cleaning techniques using power query editor and analysing the sales and rating based on the different outlet location and outlet size and created Data Visualization.
+## ABOUT: 
+## The dataset I have utilized in this project from Kaggle… Used Data cleaning techniques using power query editor and analysing the sales and rating based on the different outlet location and outlet size and created Data Visualization.
 
 ## Sales Analysis: 
 ## **Generic Question: 
